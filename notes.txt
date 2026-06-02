@@ -1,0 +1,35 @@
+CLOUD COMPUTING AND AWS NOTES
+
+1. Cloud Computing
+   Cloud Computing is the delivery of computing services over the internet.
+
+2. Advantages
+
+* Cost Saving
+* Scalability
+* Security
+* Flexibility
+* High Availability
+
+3. Deployment Models
+
+* Public Cloud-Available for all users 
+* Private Cloud-available for authenticated user
+* Hybrid Cloud-Available for both public and private users
+
+4. Service Models
+
+* IaaS (Infrastructure as a Service)-users define infrastructure of the data
+* PaaS (Platform as a Service)-users are given the platform to deploys the tools 
+* SaaS (Software as a Service)-users develop the software and ready to use 
+
+5. AWS Services
+
+* EC2: Virtual Machines-
+* S3: Storage Service
+* RDS: Database Service
+* Lambda: Serverless Computing
+* VPC: Virtual Network
+
+6. Conclusion
+   Cloud Computing enables organizations to access computing resources efficiently while AWS provides a wide range of cloud services for building scalable applications.
