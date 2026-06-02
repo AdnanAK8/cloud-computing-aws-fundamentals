@@ -1,2 +1,187 @@
 # cloud-computing-aws-fundamentals
 Covers cloud concepts, deployment models, service models, and core AWS services.
+#  Introduction to Cloud Computing and AWS
+
+##  Overview
+
+This repository was created as part of the **AICTE CodeMore Cloud Computing Internship Program**. The purpose of this task is to understand the fundamentals of Cloud Computing, different cloud deployment and service models, and the core services offered by Amazon Web Services (AWS).
+
+---
+
+## Objective
+
+The main objectives of this task are:
+
+- Understand the concept of Cloud Computing.
+- Learn the benefits and applications of cloud technology.
+- Explore different Cloud Deployment Models.
+- Understand Cloud Service Models (IaaS, PaaS, SaaS).
+- Gain knowledge about core AWS services.
+- Build a strong foundation for advanced cloud computing concepts.
+
+---
+
+##  What is Cloud Computing?
+
+Cloud Computing is the on-demand delivery of computing resources such as servers, storage, databases, networking, software, and analytics over the Internet. It allows users to access and utilize resources without owning physical infrastructure.
+
+### Key Characteristics
+
+- On-Demand Self-Service
+- Broad Network Access
+- Resource Pooling
+- Rapid Elasticity
+- Measured Service
+
+---
+
+##  Benefits of Cloud Computing
+
+| Benefit | Description |
+|----------|-------------|
+| Cost Efficiency | Reduces hardware and maintenance costs |
+| Scalability | Resources can be scaled up or down easily |
+| Flexibility | Access services from anywhere |
+| Reliability | High availability and backup options |
+| Security | Advanced security controls and monitoring |
+| Performance | Faster deployment and resource management |
+
+---
+
+##  Cloud Deployment Models
+
+### 1. Public Cloud
+
+Infrastructure is owned and managed by third-party cloud providers and shared among multiple users.
+
+**Examples:** AWS, Microsoft Azure, Google Cloud
+
+### 2. Private Cloud
+
+Cloud infrastructure is dedicated to a single organization and offers greater control and security.
+
+### 3. Hybrid Cloud
+
+A combination of public and private clouds that allows data and applications to move between environments.
+
+---
+
+##  Cloud Service Models
+
+### Infrastructure as a Service (IaaS)
+
+Provides virtualized computing resources over the internet.
+
+**Examples:**
+- Amazon EC2
+- Amazon EBS
+
+### Platform as a Service (PaaS)
+
+Provides a platform for developing, testing, and deploying applications.
+
+**Examples:**
+- AWS Elastic Beanstalk
+- Google App Engine
+
+### Software as a Service (SaaS)
+
+Provides software applications through a web browser.
+
+**Examples:**
+- Gmail
+- Microsoft 365
+- Dropbox
+
+---
+
+#  Introduction to AWS
+
+Amazon Web Services (AWS) is a cloud computing platform provided by Amazon that offers a wide range of services including computing power, storage, networking, databases, analytics, and machine learning.
+
+---
+
+##  Core AWS Services
+
+### Amazon EC2 (Elastic Compute Cloud)
+
+- Provides virtual servers in the cloud.
+- Allows users to launch and manage instances.
+- Supports scalable computing capacity.
+
+### Amazon S3 (Simple Storage Service)
+
+- Object storage service.
+- Stores files, images, videos, backups, and documents.
+- Highly durable and scalable.
+
+### Amazon RDS (Relational Database Service)
+
+- Managed relational database service.
+- Supports MySQL, PostgreSQL, MariaDB, Oracle, and SQL Server.
+
+### AWS Lambda
+
+- Serverless computing service.
+- Runs code without provisioning servers.
+- Pay only for actual execution time.
+
+### Amazon VPC (Virtual Private Cloud)
+
+- Provides isolated networking environments.
+- Enhances security and network control.
+
+### IAM (Identity and Access Management)
+
+- Controls user permissions and access.
+- Enables secure AWS resource management.
+
+---
+
+##  Learning Outcomes
+
+After completing this task, I learned:
+
+- Fundamentals of Cloud Computing.
+- Different cloud deployment models.
+- Cloud service models (IaaS, PaaS, SaaS).
+- AWS architecture basics.
+- Core AWS services and their applications.
+- Advantages of cloud-based infrastructure.
+
+---
+
+## Technologies Studied
+
+- Cloud Computing
+- Amazon Web Services (AWS)
+- EC2
+- S3
+- RDS
+- Lambda
+- IAM
+- VPC
+
+---
+
+## References
+
+- AWS Documentation
+- Cloud Computing Fundamentals Guide
+- AICTE CodeMore Internship Learning Resources
+
+---
+
+##  Conclusion
+
+Cloud Computing has transformed the way organizations deploy and manage applications. AWS provides a comprehensive set of cloud services that enable scalable, reliable, and cost-effective solutions. Understanding these fundamentals forms the basis for advanced cloud technologies and real-world cloud implementations.
+
+---
+
+## 👨‍💻 Author
+
+**Adnan Akhtar**
+
+AICTE CodeMore Cloud Computing Internship
+
+Task 1 – Introduction to Cloud Computing and AWS
